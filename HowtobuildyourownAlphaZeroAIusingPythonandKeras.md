@@ -13,3 +13,7 @@ Teach a machine to learn Connect4 strategy through self-play and deep learning
 在以上的背景中，AlphaZero 诞生了。
 
 AlphaZero — the general algorithm for getting good at something, quickly, without any prior knowledge of human expert strategy
+
+There are two amazing things about this achievement:
+- AlphaZero requires zero human expertise as input
+- The algorithm is ridiculously elegant
